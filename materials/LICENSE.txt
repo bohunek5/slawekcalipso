@@ -1,0 +1,5 @@
+Original PBR textures from Poly Haven, CC0 1.0.
+Walnut Veneer / Oak Veneer 01 / Ash Veneer: Jenelle van Heerden. Leather White: Rob Tuytel.
+https://polyhaven.com/license
+https://creativecommons.org/publicdomain/zero/1.0/
+See provenance.json for individual sources. These are visualization finishes, not samples of factory materials.

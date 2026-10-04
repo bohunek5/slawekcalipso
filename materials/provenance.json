@@ -1,0 +1,110 @@
+[
+  {
+    "path": "walnut_veneer-color.webp",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/walnut_veneer/walnut_veneer_diff_2k.jpg",
+    "asset": "https://polyhaven.com/a/walnut_veneer",
+    "license": "CC0-1.0",
+    "resolution": "2k",
+    "map": "color",
+    "processing": "WebP encoding only; original map dimensions and channels retained."
+  },
+  {
+    "path": "walnut_veneer-normal.webp",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/walnut_veneer/walnut_veneer_nor_gl_1k.jpg",
+    "asset": "https://polyhaven.com/a/walnut_veneer",
+    "license": "CC0-1.0",
+    "resolution": "1k",
+    "map": "normal",
+    "processing": "WebP encoding only; original map dimensions and channels retained."
+  },
+  {
+    "path": "walnut_veneer-roughness.webp",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/walnut_veneer/walnut_veneer_rough_1k.jpg",
+    "asset": "https://polyhaven.com/a/walnut_veneer",
+    "license": "CC0-1.0",
+    "resolution": "1k",
+    "map": "roughness",
+    "processing": "WebP encoding only; original map dimensions and channels retained."
+  },
+  {
+    "path": "oak_veneer_01-color.webp",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/oak_veneer_01/oak_veneer_01_diff_2k.jpg",
+    "asset": "https://polyhaven.com/a/oak_veneer_01",
+    "license": "CC0-1.0",
+    "resolution": "2k",
+    "map": "color",
+    "processing": "WebP encoding only; original map dimensions and channels retained."
+  },
+  {
+    "path": "oak_veneer_01-normal.webp",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/oak_veneer_01/oak_veneer_01_nor_gl_1k.jpg",
+    "asset": "https://polyhaven.com/a/oak_veneer_01",
+    "license": "CC0-1.0",
+    "resolution": "1k",
+    "map": "normal",
+    "processing": "WebP encoding only; original map dimensions and channels retained."
+  },
+  {
+    "path": "oak_veneer_01-roughness.webp",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/oak_veneer_01/oak_veneer_01_rough_1k.jpg",
+    "asset": "https://polyhaven.com/a/oak_veneer_01",
+    "license": "CC0-1.0",
+    "resolution": "1k",
+    "map": "roughness",
+    "processing": "WebP encoding only; original map dimensions and channels retained."
+  },
+  {
+    "path": "ash_veneer-color.webp",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/ash_veneer/ash_veneer_diff_2k.jpg",
+    "asset": "https://polyhaven.com/a/ash_veneer",
+    "license": "CC0-1.0",
+    "resolution": "2k",
+    "map": "color",
+    "processing": "WebP encoding only; original map dimensions and channels retained."
+  },
+  {
+    "path": "ash_veneer-normal.webp",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/ash_veneer/ash_veneer_nor_gl_1k.jpg",
+    "asset": "https://polyhaven.com/a/ash_veneer",
+    "license": "CC0-1.0",
+    "resolution": "1k",
+    "map": "normal",
+    "processing": "WebP encoding only; original map dimensions and channels retained."
+  },
+  {
+    "path": "ash_veneer-roughness.webp",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/ash_veneer/ash_veneer_rough_1k.jpg",
+    "asset": "https://polyhaven.com/a/ash_veneer",
+    "license": "CC0-1.0",
+    "resolution": "1k",
+    "map": "roughness",
+    "processing": "WebP encoding only; original map dimensions and channels retained."
+  },
+  {
+    "path": "leather_white-color.webp",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leather_white/leather_white_diff_1k.jpg",
+    "asset": "https://polyhaven.com/a/leather_white",
+    "license": "CC0-1.0",
+    "resolution": "1k",
+    "map": "color",
+    "processing": "WebP encoding only; original map dimensions and channels retained."
+  },
+  {
+    "path": "leather_white-normal.webp",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leather_white/leather_white_nor_gl_1k.jpg",
+    "asset": "https://polyhaven.com/a/leather_white",
+    "license": "CC0-1.0",
+    "resolution": "1k",
+    "map": "normal",
+    "processing": "WebP encoding only; original map dimensions and channels retained."
+  },
+  {
+    "path": "leather_white-roughness.webp",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leather_white/leather_white_rough_1k.jpg",
+    "asset": "https://polyhaven.com/a/leather_white",
+    "license": "CC0-1.0",
+    "resolution": "1k",
+    "map": "roughness",
+    "processing": "WebP encoding only; original map dimensions and channels retained."
+  }
+]
