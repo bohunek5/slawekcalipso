@@ -1,0 +1,248 @@
+[
+  {
+    "model": "750",
+    "kind": "exterior",
+    "original": "750-02-2-e1596394039872.jpg",
+    "source": "https://calipso-yacht.pl/wp-content/uploads/2019/01/2-e1596394039872.jpg",
+    "sourcePage": "https://calipso-yacht.pl/car/calipso-750/",
+    "originalDimensions": [
+      1920,
+      1280
+    ],
+    "exportDimensions": [
+      3840,
+      2560
+    ],
+    "method": "Deterministic tonal/color correction and Lanczos upscaling. No generative changes, crop, new objects, sky replacement or scene reconstruction.",
+    "note": "4K long-edge export, not native 4K photographic detail.",
+    "copyright": "Calipso Yacht / original photographer",
+    "web": "/photos/calipso-750-exterior-web.webp",
+    "download": "/photos/calipso-750-exterior-4k.jpg"
+  },
+  {
+    "model": "750",
+    "kind": "cockpit",
+    "original": "750-19-IMG_9961-e1596393726211.jpg",
+    "source": "https://calipso-yacht.pl/wp-content/uploads/2019/01/IMG_9961-e1596393726211.jpg",
+    "sourcePage": "https://calipso-yacht.pl/car/calipso-750/",
+    "originalDimensions": [
+      1920,
+      1280
+    ],
+    "exportDimensions": [
+      3840,
+      2560
+    ],
+    "method": "Deterministic tonal/color correction and Lanczos upscaling. No generative changes, crop, new objects, sky replacement or scene reconstruction.",
+    "note": "4K long-edge export, not native 4K photographic detail.",
+    "copyright": "Calipso Yacht / original photographer",
+    "web": "/photos/calipso-750-cockpit-web.webp",
+    "download": "/photos/calipso-750-cockpit-4k.jpg"
+  },
+  {
+    "model": "750",
+    "kind": "interior",
+    "original": "750-08-7-e1596393967294.jpg",
+    "source": "https://calipso-yacht.pl/wp-content/uploads/2019/01/7-e1596393967294.jpg",
+    "sourcePage": "https://calipso-yacht.pl/car/calipso-750/",
+    "originalDimensions": [
+      1920,
+      1280
+    ],
+    "exportDimensions": [
+      3840,
+      2560
+    ],
+    "method": "Deterministic tonal/color correction and Lanczos upscaling. No generative changes, crop, new objects, sky replacement or scene reconstruction.",
+    "note": "4K long-edge export, not native 4K photographic detail.",
+    "copyright": "Calipso Yacht / original photographer",
+    "web": "/photos/calipso-750-interior-web.webp",
+    "download": "/photos/calipso-750-interior-4k.jpg"
+  },
+  {
+    "model": "23",
+    "kind": "exterior",
+    "original": "23-01-Calipso-23.jpg",
+    "source": "https://calipso-yacht.pl/wp-content/uploads/2018/12/Calipso-23.jpg",
+    "sourcePage": "https://calipso-yacht.pl/car/calipso-23/",
+    "originalDimensions": [
+      1600,
+      1067
+    ],
+    "exportDimensions": [
+      3840,
+      2561
+    ],
+    "method": "Deterministic tonal/color correction and Lanczos upscaling. No generative changes, crop, new objects, sky replacement or scene reconstruction.",
+    "note": "4K long-edge export, not native 4K photographic detail.",
+    "copyright": "Calipso Yacht / original photographer",
+    "web": "/photos/calipso-23-exterior-web.webp",
+    "download": "/photos/calipso-23-exterior-4k.jpg"
+  },
+  {
+    "model": "23",
+    "kind": "cockpit",
+    "original": "23-19-IMG_4714-e1596394594421.jpg",
+    "source": "https://calipso-yacht.pl/wp-content/uploads/2019/01/IMG_4714-e1596394594421.jpg",
+    "sourcePage": "https://calipso-yacht.pl/car/calipso-23/",
+    "originalDimensions": [
+      1600,
+      1067
+    ],
+    "exportDimensions": [
+      3840,
+      2561
+    ],
+    "method": "Deterministic tonal/color correction and Lanczos upscaling. No generative changes, crop, new objects, sky replacement or scene reconstruction.",
+    "note": "4K long-edge export, not native 4K photographic detail.",
+    "copyright": "Calipso Yacht / original photographer",
+    "web": "/photos/calipso-23-cockpit-web.webp",
+    "download": "/photos/calipso-23-cockpit-4k.jpg"
+  },
+  {
+    "model": "23",
+    "kind": "interior",
+    "original": "23-18-IMG_4711-e1596394610981.jpg",
+    "source": "https://calipso-yacht.pl/wp-content/uploads/2019/01/IMG_4711-e1596394610981.jpg",
+    "sourcePage": "https://calipso-yacht.pl/car/calipso-23/",
+    "originalDimensions": [
+      1600,
+      1067
+    ],
+    "exportDimensions": [
+      3840,
+      2561
+    ],
+    "method": "Deterministic tonal/color correction and Lanczos upscaling. No generative changes, crop, new objects, sky replacement or scene reconstruction.",
+    "note": "4K long-edge export, not native 4K photographic detail.",
+    "copyright": "Calipso Yacht / original photographer",
+    "web": "/photos/calipso-23-interior-web.webp",
+    "download": "/photos/calipso-23-interior-4k.jpg"
+  },
+  {
+    "model": "550",
+    "kind": "exterior",
+    "original": "550-00-2-e1596393551893.jpg",
+    "source": "https://calipso-yacht.pl/wp-content/uploads/2019/07/2-e1596393551893.jpg",
+    "sourcePage": "https://calipso-yacht.pl/car/calipso-550/",
+    "originalDimensions": [
+      1920,
+      1280
+    ],
+    "exportDimensions": [
+      3840,
+      2560
+    ],
+    "method": "Deterministic tonal/color correction and Lanczos upscaling. No generative changes, crop, new objects, sky replacement or scene reconstruction.",
+    "note": "4K long-edge export, not native 4K photographic detail.",
+    "copyright": "Calipso Yacht / original photographer",
+    "web": "/photos/calipso-550-exterior-web.webp",
+    "download": "/photos/calipso-550-exterior-4k.jpg"
+  },
+  {
+    "model": "550",
+    "kind": "cockpit",
+    "original": "550-05-IMG_4603-e1596394206519.jpg",
+    "source": "https://calipso-yacht.pl/wp-content/uploads/2019/01/IMG_4603-e1596394206519.jpg",
+    "sourcePage": "https://calipso-yacht.pl/car/calipso-550/",
+    "originalDimensions": [
+      1600,
+      1067
+    ],
+    "exportDimensions": [
+      3840,
+      2561
+    ],
+    "method": "Deterministic tonal/color correction and Lanczos upscaling. No generative changes, crop, new objects, sky replacement or scene reconstruction.",
+    "note": "4K long-edge export, not native 4K photographic detail.",
+    "copyright": "Calipso Yacht / original photographer",
+    "web": "/photos/calipso-550-cockpit-web.webp",
+    "download": "/photos/calipso-550-cockpit-4k.jpg"
+  },
+  {
+    "model": "550",
+    "kind": "interior",
+    "original": "550-33-IMG_4598-e1596394220161.jpg",
+    "source": "https://calipso-yacht.pl/wp-content/uploads/2019/01/IMG_4598-e1596394220161.jpg",
+    "sourcePage": "https://calipso-yacht.pl/car/calipso-550/",
+    "originalDimensions": [
+      1600,
+      1067
+    ],
+    "exportDimensions": [
+      3840,
+      2561
+    ],
+    "method": "Deterministic tonal/color correction and Lanczos upscaling. No generative changes, crop, new objects, sky replacement or scene reconstruction.",
+    "note": "4K long-edge export, not native 4K photographic detail.",
+    "copyright": "Calipso Yacht / original photographer",
+    "web": "/photos/calipso-550-interior-web.webp",
+    "download": "/photos/calipso-550-interior-4k.jpg"
+  },
+  {
+    "model": "shipyard",
+    "kind": "workshop",
+    "original": "produkcja-original.jpg",
+    "source": "https://calipso-yacht.pl/wp-content/uploads/2018/12/produkcja.jpg",
+    "sourcePage": "https://calipso-yacht.pl/produkcja/",
+    "originalDimensions": [
+      1440,
+      956
+    ],
+    "exportDimensions": [
+      3840,
+      2549
+    ],
+    "method": "Deterministic tonal/color correction and Lanczos upscaling. No generative changes, crop, new objects, sky replacement or scene reconstruction.",
+    "note": "4K long-edge export, not native 4K photographic detail.",
+    "caption": "Calipso 550 hull and deck on a workshop trolley. Archival manufacturer photograph uploaded in 2018.",
+    "usageLimit": "Do not imply this is a current factory survey or evidence of lamination technique.",
+    "copyright": "Calipso Yacht / original photographer",
+    "web": "/photos/shipyard-workshop-web.webp",
+    "download": "/photos/shipyard-workshop-4k.jpg"
+  },
+  {
+    "model": "shipyard",
+    "kind": "interior",
+    "original": "648-IMG_4565.jpg",
+    "source": "https://calipso-yacht.pl/wp-content/uploads/2018/12/IMG_4565.jpg",
+    "sourcePage": "https://calipso-yacht.pl/wp-json/wp/v2/media/648",
+    "originalDimensions": [
+      1440,
+      960
+    ],
+    "exportDimensions": [
+      3840,
+      2560
+    ],
+    "method": "Deterministic tonal/color correction and Lanczos upscaling. No generative changes, crop, new objects, sky replacement or scene reconstruction.",
+    "note": "4K long-edge export, not native 4K photographic detail.",
+    "caption": "Finished saloon with wood cabinetry, galley and upholstery.",
+    "usageLimit": "Completed fit-out only; not a photograph of manufacturing work.",
+    "copyright": "Calipso Yacht / original photographer",
+    "web": "/photos/shipyard-interior-web.webp",
+    "download": "/photos/shipyard-interior-4k.jpg"
+  },
+  {
+    "model": "shipyard",
+    "kind": "solar",
+    "original": "1387-ele1-scaled.jpg",
+    "source": "https://calipso-yacht.pl/wp-content/uploads/2026/04/ele1-scaled.jpg",
+    "sourcePage": "https://calipso-yacht.pl/wp-json/wp/v2/media/1387",
+    "originalDimensions": [
+      2560,
+      1920
+    ],
+    "exportDimensions": [
+      3840,
+      2880
+    ],
+    "method": "Deterministic tonal/color correction and Lanczos upscaling. No generative changes, crop, new objects, sky replacement or scene reconstruction.",
+    "note": "4K long-edge export, not native 4K photographic detail.",
+    "caption": "Photovoltaic panels on a completed boat roof.",
+    "usageLimit": "Shows this photographed configuration, not a standard feature of every model.",
+    "copyright": "Calipso Yacht / original photographer",
+    "web": "/photos/shipyard-solar-web.webp",
+    "download": "/photos/shipyard-solar-4k.jpg"
+  }
+]
