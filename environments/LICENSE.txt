@@ -1,0 +1,15 @@
+Studio Small 09
+Author: Sergej Majboroda / Poly Haven
+Source: https://polyhaven.com/a/studio_small_09
+File: https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/studio_small_09_1k.hdr
+
+Rural Landscape
+Author: Sergej Majboroda / Poly Haven
+Source: https://polyhaven.com/a/rural_landscape
+File: https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/rural_landscape_1k.hdr
+
+Both assets are CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
+https://polyhaven.com/license
+
+Used for image-based lighting and reflections only. These are not photographs of the Calipso boatyard or its marina.

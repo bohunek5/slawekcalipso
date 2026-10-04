@@ -244,5 +244,65 @@
     "copyright": "Calipso Yacht / original photographer",
     "web": "/photos/shipyard-solar-web.webp",
     "download": "/photos/shipyard-solar-4k.jpg"
+  },
+  {
+    "model": "charter",
+    "kind": "hero",
+    "original": "550-17-DJI_0086-e1596394401565.jpg",
+    "source": "https://calipso-yacht.pl/wp-content/uploads/2019/01/DJI_0086-e1596394401565.jpg",
+    "sourcePage": "https://calipso-yacht.pl/car/calipso-550/",
+    "originalDimensions": [
+      1600,
+      900
+    ],
+    "exportDimensions": [
+      3840,
+      2160
+    ],
+    "method": "Non-generative tonal and color correction; Lanczos upscaling without cropping or changing scene content.",
+    "note": "4K long edge, not native 4K detail.",
+    "copyright": "Calipso Yacht / original photographer",
+    "web": "/photos/charter-hero-web.webp",
+    "download": "/photos/charter-hero-4k.jpg"
+  },
+  {
+    "model": "charter",
+    "kind": "lake",
+    "original": "charter/port.jpg",
+    "source": "https://calipso-yacht.pl/wp-content/uploads/2018/12/DJI_0012.jpg",
+    "sourcePage": "https://calipso-yacht.pl/port-calipso-yacht/",
+    "originalDimensions": [
+      1522,
+      746
+    ],
+    "exportDimensions": [
+      3840,
+      1882
+    ],
+    "method": "Non-generative tonal and color correction; Lanczos upscaling without cropping or changing scene content.",
+    "note": "4K long edge, not native 4K detail.",
+    "copyright": "Calipso Yacht / original photographer",
+    "web": "/photos/charter-lake-web.webp",
+    "download": "/photos/charter-lake-4k.jpg"
+  },
+  {
+    "model": "charter",
+    "kind": "electric",
+    "original": "charter/electric.jpg",
+    "source": "https://calipso-yacht.pl/wp-content/uploads/2026/04/calipso750ele-scaled.jpg",
+    "sourcePage": "https://calipso-yacht.pl/car/elektryczny-jacht-motorowy-750/",
+    "originalDimensions": [
+      2560,
+      1920
+    ],
+    "exportDimensions": [
+      3840,
+      2880
+    ],
+    "method": "Non-generative tonal and color correction; Lanczos upscaling without cropping or changing scene content.",
+    "note": "4K long edge, not native 4K detail.",
+    "copyright": "Calipso Yacht / original photographer",
+    "web": "/photos/charter-electric-web.webp",
+    "download": "/photos/charter-electric-4k.jpg"
   }
 ]
